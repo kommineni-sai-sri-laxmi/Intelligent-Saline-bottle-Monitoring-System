@@ -1,0 +1,7 @@
+
+opencv-python-headless
+numpy
+streamlit
+pygame
+inference-sdk  # Replace with the actual package name if different
+matplotlib
